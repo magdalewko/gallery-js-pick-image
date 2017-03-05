@@ -1,0 +1,36 @@
+/*** FONTS ***/
+
+@font-face{
+	font-family:myLauren;
+	src:url(lauren/Lauren-Regular.ttf);
+}
+
+
+/*** FONTS ***/
+
+
+h1{
+	font-family: myLauren,Georgia, Arial;
+	font-size: 4em!important;
+	color:#a3c2c2!important;
+	padding:0.5em;}
+		
+#screen{
+	height:60px;
+	width:50%;
+	border: 1px solid pink;}
+
+#imgs{
+	padding:1em;
+	border-top: 1px dashed #e0ebeb!important;
+	border-bottom: 1px dashed #e0ebeb!important;
+	position:relative;}
+
+#imgs img{
+	/*float:left;*/
+	margin:0.5em;
+	}
+	
+.imgSize{
+	height:300px;}
+	
